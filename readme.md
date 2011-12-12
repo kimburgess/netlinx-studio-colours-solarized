@@ -14,7 +14,7 @@ See the [Solarized homepage] for screenshots, details and implimentations for ot
 ## Installation
 
 1. Close any files currently open for editing in NetLinx Studio.
-2. Import the preferences file via `Settings` > `Import Preferences`.
+2. Import the preferences file via `Tools` > `Import Preferences`.
 
 ## Notes
 
