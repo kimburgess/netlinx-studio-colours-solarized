@@ -11,6 +11,12 @@ See the [Solarized homepage] for screenshots, details and implimentations for ot
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
 
+## Screenshots
+
+![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/master/img/solarized-light.jpg)
+
+![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/master/img/solarized-dark.jpg)
+
 ## Installation
 
 1. Close any files currently open for editing in NetLinx Studio.
