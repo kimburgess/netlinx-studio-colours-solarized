@@ -2,9 +2,7 @@
 
 Original colour scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
-Adopted for NetLinx Studio by:
-Kim Burgess <contact@kimburgess.info>
-Ryan Fletcher
+Adopted for NetLinx Studio by Kim Burgess <contact@kimburgess.info> and Ryan Fletcher.
 
 ## Visit the [Solarized homepage]
 
