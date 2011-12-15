@@ -13,9 +13,9 @@ See the [Solarized homepage] for screenshots, details and implimentations for ot
 
 ## Screenshots
 
-![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/master/img/solarized-light.jpg)
+![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/raw/master/img/solarized-light.jpg)
 
-![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/master/img/solarized-dark.jpg)
+![solarized light](https://github.com/KimBurgess/netlinx-studio-colours-solarized/raw/master/img/solarized-dark.jpg)
 
 ## Installation
 
