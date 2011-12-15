@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Preferences>
-<EditorSettings>
-<ShowLineNumbersEnabled>1</ShowLineNumbersEnabled>
-<HighlightMatchingBraces>1</HighlightMatchingBraces>
+<?xml version="1.0" encoding="UTF-8"?><Preferences><EditorSettings>
 <Styles><Style><StyleKey>TextViewColorPreferences</StyleKey>
 <StyleName>Default Text</StyleName>
 <StyleType>17</StyleType>
@@ -130,7 +126,7 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>39301</ForegroundColor>
+<ForegroundColor>13798182</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -140,7 +136,7 @@
 <Italic>1</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>10002730</ForegroundColor>
+<ForegroundColor>3095260</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -170,7 +166,7 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>10002730</ForegroundColor>
+<ForegroundColor>8533715</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -180,17 +176,17 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>10002730</ForegroundColor>
+<ForegroundColor>8533715</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
 <StyleName>Device</StyleName>
 <StyleType>13</StyleType>
 <Bold>0</Bold>
-<Italic>1</Italic>
+<Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>8533715</ForegroundColor>
+<ForegroundColor>1461195</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -200,17 +196,17 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>39301</ForegroundColor>
+<ForegroundColor>12874092</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
 <StyleName>Variable</StyleName>
 <StyleType>15</StyleType>
 <Bold>0</Bold>
-<Italic>1</Italic>
+<Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>8616805</ForegroundColor>
+<ForegroundColor>39301</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -239,8 +235,8 @@
 <Bold>0</Bold>
 <Italic>0</Italic>
 <Underline>0</Underline>
-<BackgroundColor>14018798</BackgroundColor>
-<ForegroundColor>7695960</ForegroundColor>
+<BackgroundColor>3549952</BackgroundColor>
+<ForegroundColor>10592659</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -250,7 +246,7 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>14018798</ForegroundColor>
+<ForegroundColor>8616805</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -260,7 +256,7 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>13798182</ForegroundColor>
+<ForegroundColor>35253</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -270,7 +266,7 @@
 <Italic>0</Italic>
 <Underline>0</Underline>
 <BackgroundColor>14939901</BackgroundColor>
-<ForegroundColor>8616805</ForegroundColor>
+<ForegroundColor>10002730</ForegroundColor>
 <Internal>0</Internal>
 </Style>
 <Style><StyleKey>AXSViewColorPreferences</StyleKey>
@@ -335,4 +331,28 @@
 </Style>
 </Styles>
 </EditorSettings>
+<GeneralSettings>
+<GCO_STATUS_FGC>8616805</GCO_STATUS_FGC>
+<GCO_FINDINFILES_FGC>8616805</GCO_FINDINFILES_FGC>
+<GCO_FINDIRL_FGC>8616805</GCO_FINDIRL_FGC>
+<GCO_FILETRANSFERSTATUS_FGC>8616805</GCO_FILETRANSFERSTATUS_FGC>
+<GCO_ASYNCNOTIFICATIONS_FGC>8616805</GCO_ASYNCNOTIFICATIONS_FGC>
+<GCO_DIAGNOSTICS_FGC>8616805</GCO_DIAGNOSTICS_FGC>
+<GCO_STATUS_BGC>14939901</GCO_STATUS_BGC>
+<GCO_FINDINFILES_BGC>14939901</GCO_FINDINFILES_BGC>
+<GCO_FINDIRL_BGC>14939901</GCO_FINDIRL_BGC>
+<GCO_FILETRANSFERSTATUS_BGC>14939901</GCO_FILETRANSFERSTATUS_BGC>
+<GCO_ASYNCNOTIFICATIONS_BGC>14939901</GCO_ASYNCNOTIFICATIONS_BGC>
+<GCO_DIAGNOSTICS_BGC>14939901</GCO_DIAGNOSTICS_BGC>
+<GCO_WORKSPACE_PROJECT_TREE_BGC>14939901</GCO_WORKSPACE_PROJECT_TREE_BGC>
+<GCO_WORKSPACE_PROJECT_TREE_FGC>8616805</GCO_WORKSPACE_PROJECT_TREE_FGC>
+<GCO_ONLINE_TREE_BGC>16777215</GCO_ONLINE_TREE_BGC>
+<GCO_ONLINE_TREE_FGC>0</GCO_ONLINE_TREE_FGC>
+<GCO_WATCH_WINDOW_BGC>14939901</GCO_WATCH_WINDOW_BGC>
+<GCO_WATCH_WINDOW_FGC>8616805</GCO_WATCH_WINDOW_FGC>
+<GCO_TELNET_WINDOW_BGC>14939901</GCO_TELNET_WINDOW_BGC>
+<GCO_TELNET_WINDOW_FGC>8616805</GCO_TELNET_WINDOW_FGC>
+<GCO_ZEROCONFIG_WINDOW_BGC>16777215</GCO_ZEROCONFIG_WINDOW_BGC>
+<GCO_ZEROCONFIG_WINDOW_FGC>0</GCO_ZEROCONFIG_WINDOW_FGC>
+</GeneralSettings>
 </Preferences>
